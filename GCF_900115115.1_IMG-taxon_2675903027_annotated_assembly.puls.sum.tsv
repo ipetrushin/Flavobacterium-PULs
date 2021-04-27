@@ -1,0 +1,4 @@
+genome	pulid	contigid	start	end	pattern
+GCF_900115115.1_IMG-taxon_2675903027_annotated_assembly	PUL1	NZ_FOVI01000010.1	70213	74932	susC-susD
+GCF_900115115.1_IMG-taxon_2675903027_annotated_assembly	PUL2	NZ_FOVI01000013.1	71485	75859	susC-susD
+GCF_900115115.1_IMG-taxon_2675903027_annotated_assembly	PUL3	NZ_FOVI01000030.1	4685	9062	susD-susC
