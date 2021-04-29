@@ -1,0 +1,3 @@
+genome	pulid	protein_id	contig	start	end	strand	dist	protein_name	sus	hmm	active
+GCF_900100625.1_IMG-taxon_2596583547_annotated_assembly	PUL1	NZ_FMTY01000001.1_252	NZ_FMTY01000001.1	263464	264966	-	0	NZ_FMTY01000001.1_252	susD		
+GCF_900100625.1_IMG-taxon_2596583547_annotated_assembly	PUL1	NZ_FMTY01000001.1_253	NZ_FMTY01000001.1	265019	268093	-	53	NZ_FMTY01000001.1_253	susC		

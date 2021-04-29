@@ -1,0 +1,3 @@
+genome	pulid	contigid	start	end	pattern
+GCF_011316565.1_ASM1131656v1	PUL1	NZ_WMHJ01000005.1	3202	8009	susD-susC
+GCF_011316565.1_ASM1131656v1	PUL2	NZ_WMHJ01000010.1	50345	64396	susC-unk-GH19-unk-unk-unk-unk-susC-susD

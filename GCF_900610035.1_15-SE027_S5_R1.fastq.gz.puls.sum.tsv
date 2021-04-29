@@ -1,0 +1,3 @@
+genome	pulid	contigid	start	end	pattern
+GCF_900610035.1_15-SE027_S5_R1.fastq.gz	PUL1	NZ_UXER01000078.1	19165	23960	susC-susD
+GCF_900610035.1_15-SE027_S5_R1.fastq.gz	PUL2	NZ_UXER01000140.1	53120	57810	susD-susC
